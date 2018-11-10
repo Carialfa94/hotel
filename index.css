@@ -12,15 +12,15 @@ body {
   font-family: 'Open Sans', sans-serif;}
 
 h1 {
-  background: url("https://cdn4.vectorstock.com/i/1000x1000/42/33/royalty-hotel-luxury-hotel-logo-and-emblem-vector-18874233.jpg") no-repeat;
-  width: 230px;
-  height: 180px;
+  background: url("https://www.brandcrowd.com/gallery/brands/pictures/picture14533905712585.png") no-repeat;
+  width: 325px;
+  height: 260px;
   float: left;
   text-indent: 100%;
   white-space: nowrap;
-  overflow: hidden;
-  margin: 0;}
-
+  overflow: visible;
+  margin: 0;
+  }
 h2 {
   margin: 1.75em 0 0 0;
   color: #adffda; 

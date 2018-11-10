@@ -12,7 +12,7 @@ body {
   font-family: 'Open Sans', sans-serif;}
 
 h1 {
-  background: #1e1b1e url("https://cdn4.vectorstock.com/i/1000x1000/42/33/royalty-hotel-luxury-hotel-logo-and-emblem-vector-18874233.jpg") no-repeat;
+  background: url("https://cdn4.vectorstock.com/i/1000x1000/42/33/royalty-hotel-luxury-hotel-logo-and-emblem-vector-18874233.jpg") no-repeat;
   width: 230px;
   height: 180px;
   float: left;
